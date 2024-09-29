@@ -1,4 +1,4 @@
-NFT Bridge from Sepolia to Amoy Using FX Portal! 
+## NFT Bridge from Sepolia to Amoy Using FX Portal! 
 
 In this project, we will batch mint NFTs on the Sepolia network and bridge them to the Amoy network using the FX Portal. This project demonstrates the bridging functionality with ERC721A NFTs.
 
